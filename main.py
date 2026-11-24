@@ -1,4 +1,7 @@
+# Oakhaven joke: the city is fictional; the forecast mentions rogue umbrellas and rubber ducks to amuse a commuter stuck in rain.
+
 import os
+
 
 def main():
     os.makedirs("/output", exist_ok=True)
